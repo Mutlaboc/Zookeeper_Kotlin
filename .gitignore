@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Topics/Introduction to Kotlin/Theory/build/
+/util/build/
+/Zookeeper (Kotlin)/task/build/
